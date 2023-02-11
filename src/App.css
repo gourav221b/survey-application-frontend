@@ -1,0 +1,20 @@
+@import url(styles/fonts.css);
+@import url(styles/utils.css);
+@import url(styles/bootstrap.min.css);
+
+.bodyWrapper {
+  width: 100vw;
+  min-height: 100vh;
+
+}
+
+.mainWrapper {
+  width: calc(100vw-var(--nav-width));
+  margin-left: var(--nav-width);
+
+  min-height: 100vh;
+  padding: 2%;
+  position: relative;
+  transition: 0.4s ease;
+
+}

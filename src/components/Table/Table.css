@@ -1,0 +1,41 @@
+.surveyorName
+{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Outfit';
+}
+.surveyorEmail
+{
+    color: #111 ;
+    opacity: 0.5;
+}
+.tablePill
+{
+    padding: 8px 30px;
+    border-radius: 30px;
+    background: #e5e5e5;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    width: 200px;
+}
+.tableActionButton
+{
+    font-size: 21px;
+}
+.Contacted
+{
+    background: #4a88e5;
+    /* color:#4a88e5 ; */
+    color: #fff;
+}
+.Processing
+{
+    background: #ffc800;
+    color: #FFC700;color: #fff;
+}
+.Shared
+{
+    background: #22D73F;
+    color: #22D73F;color: #fff;
+}
